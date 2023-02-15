@@ -36,43 +36,44 @@ body {
 	margin: 0 0 20px 0;
 }
 
-.exp {
+.experiences {
 	margin-bottom: 20px;
 }
 
-.exp h3 {
+.experiences h4 {
 	font-size: 18px;
 	margin: 0 0 10px 0;
 }
 
-.exp p {
+.experiences p {
 	font-size: 16px;
 	margin: 0 0 5px 0;
 }
 
-.edu {
+.formations {
 	margin-bottom: 20px;
 }
 
-.edu h3 {
+.formations h4 {
 	font-size: 18px;
 	margin: 0 0 10px 0;
 }
 
-.edu p {
+.formations p {
 	font-size: 16px;
 	margin: 0 0 5px 0;
 }
 
-.skills {
-	list-style: none;
-	padding: 0;
-	margin: 0;
+.competences {
+	margin-bottom: 20px;
 }
 
-.skills li {
-	display: inline-block;
+.competences h4 {
+	font-size: 18px;
+	margin: 0 0 10px 0;
+}
+
+.competences p {
 	font-size: 16px;
-	margin-right: 10px;
-	padding: 5px;
-	background-color: #444
+	margin: 0 0 5px 0;
+}
