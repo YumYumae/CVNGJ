@@ -6,24 +6,24 @@ body {
 	background-color: #f2f2f2;
 }
 
-.container {
+.contenu {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 50px;
 }
 
-.header {
+.hautpage {
 	text-align: center;
 	margin-bottom: 50px;
 }
 
-.header h1 {
-	font-size: 36px;
+.hautpage h1 {
+	font-size: 40px;
 	margin: 0;
 }
 
-.header p {
-	font-size: 18px;
+.hautpage p {
+	font-size: 22px;
 	margin: 0;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .section h2 {
-	font-size: 24px;
+	font-size: 30px;
 	margin: 0 0 20px 0;
 }
 
@@ -41,12 +41,17 @@ body {
 }
 
 .experiences h4 {
-	font-size: 18px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 
 .experiences p {
-	font-size: 16px;
+	font-size: 20px;
+	margin: 0 0 5px 0;
+}
+
+.stage {
+	font-size: 20px;
 	margin: 0 0 5px 0;
 }
 
@@ -55,12 +60,12 @@ body {
 }
 
 .formations h4 {
-	font-size: 18px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 
 .formations p {
-	font-size: 16px;
+	font-size: 20px;
 	margin: 0 0 5px 0;
 }
 
@@ -69,11 +74,11 @@ body {
 }
 
 .competences h4 {
-	font-size: 18px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 
 .competences p {
-	font-size: 16px;
+	font-size: 20px;
 	margin: 0 0 5px 0;
 }
